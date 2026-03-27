@@ -62,8 +62,8 @@ Before proceeding, ensure you have the following installed:
 ### **1️⃣ Clone the Repository**  
 
 ```bash
-git clone <your-repository-url>
-cd <your-repository-name>/EKS-TF
+git clone git@github.com:hamzaMissewi/game-eks-deployment-terraform.git
+cd game-eks-deployment-terraform/EKS-TF
 ```
 
 ### **2️⃣ Configure Terraform Variables**  
